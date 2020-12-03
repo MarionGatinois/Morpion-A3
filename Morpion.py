@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 10 12:09:29 2020
-
-@author: jujug
-"""
 from math import inf as infinity
 import random as rd
 
